@@ -6,6 +6,8 @@ The analysis will be based on historical trip data provided by Cyclistic. I will
 
 The results of this analysis will provide valuable insights into the behavior of Cyclistic's customers and can be used to inform business decisions and marketing strategies.
 
+This project is a part of Google Data Analytics: Capstone Project Course provided on Coursera.
+
 ## Divvy Bike Sharing Data
 
 The Divvy Bike Sharing data is a comprehensive dataset that provides historical trip data for public use. This data is released on a monthly schedule and is provided according to the Divvy Data License Agreement.
@@ -44,3 +46,13 @@ The analysis will follow these steps:
 5. Result interpretation: The visualizations and statistical results will be interpreted to draw conclusions about the usage patterns of Cyclistic bikes by annual members and casual riders.
 
 This methodology provides a rigorous and systematic approach to analyzing the data and answering the research question.
+
+## Results and Conlusion
+
+The results and conclusion of this analysis will be presented in the report file which can be founded on the Documents folder.
+
+## References
+
+1. Cyclistic Bike Sharing Data: The primary data source for this project. Available at: [Cyclistic Data](https://divvy-tripdata.s3.amazonaws.com/index.html).
+2. R: The programming language used for data cleaning, manipulation, and statistical analysis.
+3. Tableau: The software used for data visualization and exploration.
