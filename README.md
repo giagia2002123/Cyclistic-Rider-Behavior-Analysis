@@ -49,7 +49,7 @@ This methodology provides a rigorous and systematic approach to analyzing the da
 
 ## Results and Conlusion
 
-The results and conclusion of this analysis will be presented in the report file which can be founded on the Documents folder.
+The findings and implications of this analysis will be comprehensively documented in the report file, which is located in the [Documents](https://github.com/giagia2002123/Cyclistic-Rider-Behavior-Analysis/tree/main/Documents) folder.
 
 ## References
 
